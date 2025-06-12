@@ -1,7 +1,7 @@
 import React from "react";
 
 const ViewPaste = () => {
-  return <div></div>;
+  return <div>View Paste</div>;
 };
 
 export default ViewPaste;
